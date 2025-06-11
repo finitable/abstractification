@@ -4,34 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UF1oXurXcwA-S5_GXWtf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="UF1oXurXcwA-S5_GXWtf-2" target="UF1oXurXcwA-S5_GXWtf-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="860" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2-WqegVorzTmvErHff-t-5" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UF1oXurXcwA-S5_GXWtf-6">
-          <mxGeometry x="-0.1667" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UF1oXurXcwA-S5_GXWtf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UF1oXurXcwA-S5_GXWtf-2" target="UF1oXurXcwA-S5_GXWtf-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2-WqegVorzTmvErHff-t-6" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UF1oXurXcwA-S5_GXWtf-10">
-          <mxGeometry x="-0.2727" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UF1oXurXcwA-S5_GXWtf-2" value="PUBLISH UPDATE TO BUSINESS PROCESS" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="120" width="140" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="UF1oXurXcwA-S5_GXWtf-5" value="TRAINING" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="140" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UF1oXurXcwA-S5_GXWtf-9" value="RECEIPT CERTIFICATION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="240" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UF1oXurXcwA-S5_GXWtf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=120;exitDy=50;exitPerimeter=0;" parent="1" source="2-WqegVorzTmvErHff-t-20" target="UF1oXurXcwA-S5_GXWtf-2" edge="1">
           <mxGeometry relative="1" as="geometry">
